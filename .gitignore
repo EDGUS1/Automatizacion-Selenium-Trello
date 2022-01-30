@@ -1,0 +1,13 @@
+test
+
+.env
+
+*.exe
+
+*.log
+
+images/*
+
+log
+
+__pycache__
